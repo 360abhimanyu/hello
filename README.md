@@ -1,2 +1,1 @@
-# hello
-myresume
+# Static-Website-Resume
